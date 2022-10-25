@@ -1,2 +1,2 @@
-# qa_guru_python2_07
+# qa_guru_python_2_07
 PageObjects part I
